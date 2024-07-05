@@ -1,4 +1,4 @@
 # Поисковая система Shsearch на основе гугла
-## Ссылка на Github pages - https://shashzxc.github.io/shsearch/
+## Ссылка на Github pages - [https://shashzxc.github.io/shsearch/](ShSearch)
 ___
 ## Эта поисковая система для собственного браузера [PyWeb](https://github.com/shash29exe/PyWeb)
